@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cách cầu hôn bạn gái",
+      "body": "Hướng dẫn chi tiết cách setup cầu hôn bạn gái."
+    },
+    {
+      "id": 2,
+      "title": "Cách quan hệ lâu ra",
+      "body": "Sử dụng biện pháp Tây âu"
+    },
+    {
+      "id": 3,
+      "title": "Các tư thế leo đỉnh",
+      "body": "Hướng dẫn chi tiết cách thịt bạn gái."
+    },
+    {
+      "id": 4,
+      "title": "Đồ chơi người lớn",
+      "body": "Các dụng cụ leo đỉnh nổi bật."
+    }
+  ],
+  "users": [
+    {
+      "username": "Duong",
+      "password": "123abc",
+      "fullname": "Duong dep chai"
+    },
+    {
+      "username": "Tung",
+      "password": "1234abc",
+      "fullname": "Tung xau chai"
+    },
+    {
+      "username": "Voyeu",
+      "password": "12345abc",
+      "fullname": "Vo dep gai"
+    }
+  ]
+}
